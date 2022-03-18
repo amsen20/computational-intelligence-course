@@ -1,0 +1,3 @@
+[submodule "EvolutionaryGames"]
+	path = EvolutionaryGames
+	url = git@github.com:amsen20/EvolutionaryGames.git
